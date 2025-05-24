@@ -162,6 +162,6 @@ a =plainText[i];
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/ef00f90a-803d-41ec-a4d3-ba1e8abfb3c6)
-Result:
+## Result:
 The program is executed successfully
 
